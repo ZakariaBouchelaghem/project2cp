@@ -5,7 +5,16 @@ import 'about_us/about_us.dart';
 import 'about_us/contact_us.dart';
 import 'home/profil.dart';
 import 'home/map.dart';
-
+import 'Onboarding/fancy_on_boarding.dart';
+import 'Onboarding/fancy_page.dart';
+import 'Onboarding/page_dragger.dart';
+import 'Onboarding/page_indicator.dart';
+import 'Onboarding/page_model.dart';
+import 'Onboarding/page_reveal.dart';
+import 'Onboarding/routes_pages.dart';
+import 'Splash/splash.dart';
+import 'Splash/light_color.dart';
+import 'Splash/extention.dart';
 
 void main() => runApp(MaterialApp(
   color: Color(0xff5097a4),
